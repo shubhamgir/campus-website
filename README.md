@@ -1,4 +1,4 @@
-# Campus Shoes Website
+# [Campus Shoes Website](https://shubhamgir.github.io/campus-website/)
 
 A frontend website created to showcase my html and css understanding. This project demonstrates basic HTML, CSS, and responsive design principles to create an good user experience.
 
